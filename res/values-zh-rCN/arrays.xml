@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reboot_options">
+        <item>重启</item>
+        <item>重启到恢复模式</item>
+        <item>重启到引导程序</item>
+        <item>关机</item>
+    </string-array>
+    <string-array name="wireless_copy">
+        <item>复制热点</item>
+        <item>复制密码</item>
+        <item>复制热点和密码</item>
+    </string-array>
+</resources>

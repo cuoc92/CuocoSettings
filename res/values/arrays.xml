@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sbspeed_options">
+        <item>Hide</item>
+        <item>Download speed</item>
+        <item>Upload speed</item>
+        <item>Upload/download speed</item>
+    </string-array>
+    <string-array name="sbspeed_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_2">false</item>
+    <item type="array" name="APKTOOL_DUMMY_3">false</item>
+    <item type="array" name="APKTOOL_DUMMY_4">false</item>
+    <item type="array" name="APKTOOL_DUMMY_5">false</item>
+    <item type="array" name="APKTOOL_DUMMY_6">false</item>
+    <item type="array" name="APKTOOL_DUMMY_7">false</item>
+    <item type="array" name="APKTOOL_DUMMY_8">false</item>
+    <item type="array" name="APKTOOL_DUMMY_9">false</item>
+    <string-array name="reboot_options">
+        <item>Reboot</item>
+        <item>Reboot recovery</item>
+        <item>Reboot bootloader</item>
+        <item>Power off</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_c">false</item>
+    <item type="array" name="APKTOOL_DUMMY_d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_e">false</item>
+    <string-array name="wireless_copy">
+        <item>Copy hotspots</item>
+        <item>Copy the password</item>
+        <item>Copy hotspots and passwords</item>
+    </string-array>
+    <string-array name="themes">
+        <item>Material dark bar</item>
+        <item>Material light bar</item>
+        <item>Orange</item>
+        <item>Red</item>
+        <item>Indigo</item>
+    </string-array>
+    <string-array name="themes_keys">
+        <item>@string/basic_theme_name</item>
+        <item>@string/light_theme_name</item>
+        <item>@string/orange_theme_name</item>
+        <item>@string/red_theme_name</item>
+        <item>@string/indigo_theme_name</item>
+    </string-array>
+    <string-array name="country_array">
+        <item>Europe</item>
+        <item>Asia</item>
+        <item>North-America</item>
+        <item>Oceania</item>
+        <item>South-America</item>
+        <item>Netherlands</item>
+        <item>China</item>
+        <item>Russia</item>
+        <item>India</item>
+        <item>United Kingdom</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>Japan</item>
+        <item>Italy</item>
+        <item>Poland</item>
+        <item>Malaysia</item>
+        <item>Korea</item>
+        <item>Custom</item>
+    </string-array>
+</resources>

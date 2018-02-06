@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sbspeed_options">
+        <item>Выключен</item>
+        <item>Только для загрузки</item>
+        <item>Только upload</item>
+        <item>Скачать электронной загрузки</item>
+    </string-array>
+    <string-array name="sbspeed_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="wireless_copy">
+        <item>Горячие копия</item>
+        <item>Скопируйте пароль</item>
+        <item>Копирование горячих точек и паролей</item>
+    </string-array>
+    <string-array name="country_array">
+        <item>Европа</item>
+        <item>Азия</item>
+        <item>Северная Америка</item>
+        <item>Океания</item>
+        <item>Южная Америка</item>
+        <item>Нидерланды</item>
+        <item>Китай</item>
+        <item>Россия</item>
+        <item>Индия</item>
+        <item>Великобритания</item>
+        <item>Германия</item>
+        <item>Франция</item>
+        <item>Япония</item>
+        <item>Италия</item>
+        <item>Польша</item>
+        <item>Малайзия</item>
+        <item>Корея</item>
+        <item>Другие</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notifications_app_name">Power Notifier</string>
+    <string name="pref_enable_notification_title">تمكين الإشعار</string>
+    <string name="pref_enable_notification_smry_on">إشعار توصيل الطاقة.</string>
+    <string name="pref_enable_notification_smry_off">تم إيقاف إشعار توصيل اتصال الطاقة.</string>
+    <string name="pref_power_connected_ac_sound_title">صوت التيار</string>
+    <string name="pref_power_connected_ac_sound_smry">عند توصيل الشاحن بالجوال.</string>
+    <string name="pref_power_connected_usb_sound_title">صوت USB</string>
+    <string name="pref_power_connected_usb_sound_smry">عند توصيل USB بالجوال.</string>
+    <string name="pref_power_disconnected_sound_title">قطع الصوت</string>
+    <string name="pref_power_disconnected_sound_smry">عند فصل الشاحن عن الجوال.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notifications_app_name">電源おん</string>
+    <string name="pref_enable_notification_title">通知を有効にする</string>
+    <string name="pref_enable_notification_smry_on">電源の接続／切断を通知します。</string>
+    <string name="pref_enable_notification_smry_off">電源の接続／切断を通知しません。</string>
+    <string name="pref_power_connected_ac_sound_title">アダプタ接続時の通知音</string>
+    <string name="pref_power_connected_ac_sound_smry" />
+    <string name="pref_power_connected_usb_sound_title">USB接続時の通知音</string>
+    <string name="pref_power_connected_usb_sound_smry" />
+    <string name="pref_power_disconnected_sound_title">電源切断時の通知音</string>
+    <string name="pref_power_disconnected_sound_smry" />
+</resources>
