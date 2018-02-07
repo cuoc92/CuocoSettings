@@ -337,4 +337,5 @@ UNPLUG THE CHARGE CABLE NOW!"</string>
     <string name="aosp_customized_ui_title">Android classical interface with toggles</string>
     <string name="systemui_aosp_switch_title">Taskmanager stock (Android style)</string>
     <string name="systemui_aosp_switch_summary">Choose between stock android and customized toggles</string>
+    <string name="choose_option_menu_title">Choose an option:</string>	
 </resources>
