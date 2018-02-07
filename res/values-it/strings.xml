@@ -311,5 +311,6 @@ SCOLLEGARE IL TELEFONO DAL CARICATORE!"</string>
     <string name="aosp_default_ui_title">Intercaccia classica android senza collegamenti</string>
     <string name="aosp_customized_ui_title">Intercaccia classica android con collegamenti</string>
     <string name="systemui_aosp_switch_title">Gestione applicazioni (Stile android)</string>
-    <string name="systemui_aosp_switch_summary">"Scegli tra l'interfaccia Android personalizzata e i collegamenti sulla tendina delle notifiche"</string>	
+    <string name="systemui_aosp_switch_summary">"Scegli tra l'interfaccia Android personalizzata e i collegamenti sulla tendina delle notifiche"</string>
+    <string name="choose_option_menu_title">"Scegli un'opzione:</string>	
 </resources>
