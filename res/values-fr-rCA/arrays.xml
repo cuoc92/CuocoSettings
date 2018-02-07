@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sbspeed_options">
+        <item>Cacher</item>
+        <item>Vitesse Download</item>
+        <item>Vitesse Upload</item>
+        <item>Vitesse Upload/download</item>
+    </string-array>
+    <string-array name="sbspeed_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="reboot_options">
+        <item>Redémarrer</item>
+        <item>Redémarrer (Recovery) </item>
+        <item>Redémarrer (Bootloader)</item>
+        <item>Eteindre</item>
+    </string-array>
+    <string-array name="wireless_copy">
+        <item>Copier hotspots</item>
+        <item>Copier mot de passe</item>
+        <item>Copier hotspots et mot de passe</item>
+    </string-array>
+    <string-array name="themes">
+        <item>Barre Material Dark</item>
+        <item>Barre Material Light</item>
+        <item>Orange</item>
+        <item>Rouge</item>
+        <item>Indigo</item>
+    </string-array>
+    <string-array name="themes_keys">
+        <item>@string/basic_theme_name</item>
+        <item>@string/light_theme_name</item>
+        <item>@string/orange_theme_name</item>
+        <item>@string/red_theme_name</item>
+        <item>@string/indigo_theme_name</item>
+    </string-array>
+    <string-array name="country_array">
+        <item>Europe</item>
+        <item>Asie</item>
+        <item>Amerique du Nord</item>
+        <item>Oceanie</item>
+        <item>Amerique du Sud</item>
+        <item>Pays-Bas</item>
+        <item>Chine</item>
+        <item>Russie</item>
+        <item>Inde</item>
+        <item>Royaume-Uni</item>
+        <item>Allemagne</item>
+        <item>France</item>
+        <item>Japon</item>
+        <item>Italie</item>
+        <item>Pologne</item>
+        <item>Malaysie</item>
+        <item>Corée</item>
+        <item>Perso</item>
+    </string-array>
+</resources>
