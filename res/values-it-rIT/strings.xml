@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuoco</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="notifications_app_name">Notifiche USB</string>
+    <string name="cuoco_settings">Impostazioni cuoco</string>
+    <string name="advanced_cuoco_title">IMPOSTAZIONI AVANZATE</string>
+    <string name="ic_settings_restart_title">Opzioni riavvio</string>
+    <string name="settings_fontchooser_title">Modifica stile caratteri</string>
+    <string name="ic_ota_updater_title">Aggiornamenti sistema</string>
+    <string name="setting_power_notification_title">Notifica alimentazione</string>
+    <string name="ic_battery_calibration_title">Calibrazione batteria</string>
+    <string name="ad_away_title">Blocco pubblicità</string>
+    <string name="sys_uninstaller">Disinstalla applicazioni</string>
+    <string name="informations_dev">Informazioni sviluppatore</string>
+    <string name="info_default">Premi qui o sul mio logo per informazioni</string>
+    <string name="crypt_keeper_button_text">Cripta telefono</string>
+    <string name="crypt_keeper_dialog_need_password_message">Devi impostare un PIN o una password di blocco schermo per poter iniziare la crittografia.</string>
+    <string name="advanced_mod_options">Altro</string>
+    <string name="advanced_mod_devopt">Opzioni sviluppatore</string>
+    <string name="advanced_mod_wificall">Chiamata Wifi</string>
+    <string name="freetime_mm_title">Svago</string>
+    <string name="advanced_mod_Mland">Marshmallow Land</string>
+    <string name="advanced_mod_Dcase">Dessert Case</string>
+    <string name="ic_settings_restart_summary">Spegni, riavvia il telefono nella recovery o nella modalità fastboot</string>
+    <string name="settings_fontchooser_summary">"Cambia lo stile del carattere di sistema. Dopo l'applicazione sarà necessario riavviare il telefono"</string>
+    <string name="setting_power_notification_summary">Assegna i suoni alla connessione del telefono a una periferica USB</string>
+    <string name="ic_battery_calibration_summary">"Calibra la batteria dopo l'installazione di una nuova ROM"</string>
+    <string name="ad_away_title_summary">Rimuovi le plubblicità dalle applicazione con Ad-Away</string>
+    <string name="sys_uninstaller_summary">Rimuovi le applicazioni utente e di sistema</string>
+    <string name="advanced_mod_devopt_summary">Accedi alle funzioni avanzate di Android</string>
+    <string name="leui_blue_light_protection_summary">"Proteggi la vista durante l'uttilizzo del telefono"</string>
+    <string name="cuoco_sidebar_title">Barra laterale</string>
+    <string name="cuoco_sidebar_summary">Attiva la barra laterale con uno swipe da sinistra o da destra</string>
+    <string name="app_freezer_settings_title">Blocca applicazioni</string>
+    <string name="app_freezer_settings_summary">Disabilita le applicazioni che consumano memoria in background</string>
+    <string name="system_analise_settings_title">Analisi di sistema</string>
+    <string name="system_analise_settings_summary">Controlla le informazioni delle SIM, lo stato della batteria, wifi e altro</string>
+    <string name="leui_wifi_qrcode_title">Wifi-Codice Qr</string>
+    <string name="systemui_title">Opzioni barra di stato</string>
+    <string name="leui_wifi_qrcode_summary">Accedi alla rete Wifi scannerizzando il codice Qr del Router</string>
+    <string name="xposed_framework_desc">Gestione Xposed</string>
+    <string name="xposed_framework_main_title">Installa o rimuovi Xposed</string>
+    <string name="xposed_framework_main_summary">Attenzione: una volta attivato, Safetynet non sarà più in grado di passare il controllo di integrità</string>
+    <string name="xposed_framework_title">Gestione Xposed</string>
+    <string name="xposed_framework_summary">Attiva, scarica e gestisci i moduli Xposed. Non tutti i moduli sono supportati. Attenzione: una volta attivato, Safetynet non sarà più in grado di passare il controllo di integrità</string>
+    <string name="unroot_main_title">Gestione privilegi root</string>
+    <string name="unroot_device_title">Unroot dispositivo</string>
+    <string name="unroot_device_summary">Puoi rimuovere i privilegi root usando questa opzione. Alcune applicazioni e impostazioni avanzate non funzioneranno più regolarmente</string>
+    <string name="suspersu_main_title">Gestione SuperSu</string>
+    <string name="suspersu_main_summary">SuperSU consente una gestione avanzata dei diritti di accesso per tutte le applicazioni sul dispositivo che necessitano di root</string>
+    <string name="developer_info">Deposito ROM</string>
+    <string name="developer_info_summary">"Scarica l'ultima ROM disponibile.  Assicurati che il dispositivo si connesso a una rete Wi-Fi"</string>
+    <string name="kernel_mod_menu">Ottimizzazioni del kernel</string>
+    <string name="kernel_mod_title">Spectrum</string>
+    <string name="kernel_mod_summary">Scegli tra i profili: bilanciato, prestazioni, batteria o modalità gioco</string>
+    <string name="cpu_mod_title">Impostazioni CPU</string>
+    <string name="cpu_mod_summary">Configura le frequenze della CPU e i vari governor</string>
+    <string name="left_tap">Tasto virtuale sinistro</string>
+    <string name="left_tap_summary">"Singolo tocco per visualizzare il taskmanager. Tocco prolungato per avviare l'azione selezionata dal menù "<u>Impostazioni/Accessibilità</u></string>
+    <string name="frame_title_description">Framework customizzato</string>
+    <string name="frame_title_summary">Scegli tra il framework ottimizzato o quello stock senza ottimizzazioni</string>
+    <string name="home_tap">Tasto virtuale centrale</string>
+    <string name="home_tap_summary">"Singolo tocco per visualizzare la schermata principale del desktop. Tocco prolungato per avviare l'azione selezionata dal menù "<u>Impostazioni/Accessibilità</u></string>
+    <string name="right_tap">Tasto virtuale destro</string>
+    <string name="right_tap_summary">Singolo tocco per la sospensione dello schermo. Tocco prolungato per visualizzare le opzioni del tasto di accensione</string>
+    <string name="led_light_title">Notifiche LED</string>
+    <string name="led_light">Gestione notifiche LED</string>
+    <string name="led_light_summary">Gestisci il LED di notifica per ogni applicazione, batteria e molto altro</string>
+    <string name="density_header_title">Gestione schermo</string>
+    <string name="density_title">ATTENZIONE</string>
+    <string name="density_settings_title">Inserire il valore desiderato:</string>
+    <string name="density_settings">Densità dello schermo</string>
+    <string name="density_settings_summary">Modifica il valore della densità dello schermo con un valore compreso tra 400 e 680 DPI</string>
+    <string name="device_info">Informazioni dispositivo</string>
+    <string name="device_info_summary">Visualizza informazioni sulla Cpu, Schermo, Batteria, Memoria, Sensori e altro</string>
+    <string name="cuoco_ui_settings">Interfaccia utente</string>
+    <string name="cuoco_ui_settings_summary">Abilita o disabilita i pulsanti virtuali nella barra di stato</string>
+    <string name="cuoco_autoanswer_title">Risposta automatica</string>
+    <string name="cuoco_autoanswer_summary">Attiva il servizio di risposta automatica per le chiamate in arrivo</string>
+    <string name="power_cuoco_title">Sistema</string>
+    <string name="font_cuoco_title">Stile</string>
+    <string name="battery_cuoco_title">Batteria</string>
+    <string name="notifications_cuoco_title">Notifiche plug-in</string>
+    <string name="ads_cuoco_title">Blocco pubblicità</string>
+    <string name="system_cuoco_title">Gestione applicazioni</string>
+    <string name="eui_mod_options">Impostazioni EUI</string>
+    <string name="wifi_options_title">Opzioni Wifi</string>
+    <string name="leui_wifi_pass_title">Password Wifi</string>
+    <string name="leui_wifi_pass_summary">Visualizza le password che sono state digitate manualmente, non quelle scannerizzate da un codice Qr</string>
+    <string name="mod_Dcase_summary">Gioca con Marshmallow Easter Eggs</string>
+    <string name="mod_Mland_summary">Gioca con Marshmallow Land</string>
+    <string name="call_cuoco_title">Impostazioni chiamata</string>
+    <string name="auto_answer_title">Risposta automatica</string>
+    <string name="settings_autoanswer_summary">Rispondi automaticamente alle chiamate in arrivo</string>
+    <string name="wifi_info">"Informazione:
+
+Premi per copiare le informazioni WIFI"</string>
+    <string name="wifi_settings">Impostazioni WiFi</string>
+    <string name="gestures_settings">Impostazione gesti</string>
+    <string name="ui_settings">Impostazioni UI</string>
+    <string name="density_menu">Impostazioni schermo</string>
+    <string name="gestures_title">Gesti con una mano</string>
+    <string name="gesture_title">Agita il telefono</string>
+    <string name="gestures_summary">Agita il telefono per mandarlo in modalità standby</string>
+    <string name="gestures_dashboard_title">Gesti</string>
+    <string name="gesture_settings_title">Gesti con una mano</string>
+    <string name="gestures_settings_summary">Abilita o disabilita i gesti con una mano</string>
+    <string name="battery_info_title">Informazioni batteria</string>
+    <string name="battery_info_summary">Visualizza lo stato attuale e le informazioni della batteria</string>
+    <string name="app_service_settings_title">Gestione servizi</string>
+    <string name="app_service_settings_summary">Abilita o disabilita i servizi delle applicazioni utente e di sistema</string>
+    <string name="xposed_header_title">Xposed framework</string>
+    <string name="ic_custom_switch_title">Impostazioni SystemUI</string>
+    <string name="advanced_mod_settings">IMPOSTAZIONI AVANZATE</string>
+    <string name="audio_header_title">Impostazioni audio</string>
+    <string name="dolby_atmos_title">Dolby Atmos</string>
+    <string name="dolby_atmos_summary">Attiva e gestici la tecnologia audio surround nello smartphone</string>
+    <string name="audio_viper_title">Viper4Android</string>
+    <string name="audio_viper_summary">"Attiva e gestisci l'equalizzatore per miglioare notevolmente il suono sia in cuffia che nell'altoparlante"</string>
+    <string name="systemui_preference_title">Modifica interfaccia</string>
+    <string name="systemui_notification_title">Accesso rapido e luminosità</string>
+    <string name="systemui_notification_summary">"Attiva i collegamenti per l'accesso rapido e il regolatore della luminosità nel pannello delle notifiche"</string>
+    <string name="systemui_title_description">Interfaccia</string>
+    <string name="systemui_title_summary">"Scegli tra l'interfaccia classica o quella customizzata"</string>
+    <string name="default_ui_title">Interfaccia utente predefinita</string>
+    <string name="customized_ui_title">Interfaccia utente customizzata</string>
+    <string name="launcher_title">Gesti launcher</string>
+    <string name="launcher_summary">"Modifica l'opzione swipe up per avviare le applicazioni"</string>
+    <string name="launcher_title_main">Ricerca Google o applicazione Telefono</string>
+    <string name="launcher_preference_title">Launcher</string>
+    <string name="launcher_title_summary">Premere qui per selezionare e applicare la vostra scelta. Il telefono verrà riavviato automaticamente</string>
+    <string name="google_swipe_title">Ricerca Google</string>
+    <string name="dialer_swipe_title">"Avvia l'applicazione Telefono"</string>
+    <string name="cuoco_switch">Funzionalità interfaccia utente</string>
+    <string name="systemui_switch_title">Barra delle notifiche (EUI)</string>
+    <string name="systemui_switch_summary">"Scegli tra l'interfaccia classica o quella customizzata"</string>
+    <string name="pref_enable_notification_title">Attiva notifiche</string>
+    <string name="pref_enable_notification_smry_on">Notifica quando viene connesso a una fonte di energia</string>
+    <string name="pref_enable_notification_smry_off">Nessuna notifica quando viene collegato.</string>
+    <string name="pref_power_connected_ac_sound_title">Notifica per il caricatore</string>
+    <string name="pref_power_connected_ac_sound_smry">Emette un suono quando viene collegato al carica batteria.</string>
+    <string name="pref_power_connected_usb_sound_title">Notifica per USB</string>
+    <string name="pref_power_connected_usb_sound_smry">Emette un suono quando viene collegato a una periferica USB.</string>
+    <string name="pref_power_disconnected_sound_title">Notifica disconnessione</string>
+    <string name="pref_power_disconnected_sound_smry">Emette un suono quando viene scollegato dalla fonte elettrica.</string>
+    <string name="wifiqrscanner_label">WLANQRScanner</string>
+    <string name="wifi_failed_connect_message">Impossibile connetersi alla rete</string>
+    <string name="app_qr_name">WLAN codice Qr</string>
+    <string name="connect">Connetti</string>
+    <string name="bottom_hint">Scannerizza la \"Password condivisa\" sottoforma di codice QR del dispositivo a cui ci si vuole connettere (la funzione di condivisione della password deve essere sostenuta nei dettagli AP del telefono).</string>
+    <string name="top_hint">Quando il codice a barre o Codice QR è collocato nella scatola, il sistema esegue la scansione automaticamente</string>
+    <string name="cancel">Annulla</string>
+    <string name="msg_camera_framework_bug">Siamo spiacenti, la fotocamera riscontrato un problema. Potrebbe essere necessario riavviare il dispositivo.</string>
+    <string name="button_ok">OK</string>
+    <string name="result_ssid">AP SSID:</string>
+    <string name="result_password">Password:</string>
+    <string name="result_type">Sicurezza:</string>
+    <string name="result_type_error">Nessuna WLAN password WLAN nel codice QR scannerizzato. Si prega effettuare nuovamente la scansione</string>
+    <string name="title_text">Scansione</string>
+    <string name="conneting">Connessione...</string>
+    <string name="connet_fail">Connessione fallita. Riprovare?</string>
+    <string name="reboot_app_name">Opzioni di riavvio</string>
+    <string name="checking_root">Controllo accesso root...</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_power_off_yes">Spegni</string>
+    <string name="dialog_reboot_yes">Riavvia</string>
+    <string name="label_bootloader">Riavvia in modalità bootloader</string>
+    <string name="label_edl">Riavvia in modalità edl (Emergenza)</string>
+    <string name="label_hot_reboot">Riavvio veloce (riavvia le applicazioni e framework)</string>
+    <string name="label_power_off">Spegni il telefono</string>
+    <string name="label_reboot">Riavvia il telefono (normale)</string>
+    <string name="label_recovery">Riavvia in modalità recovery</string>
+    <string name="label_ui_mode">Riavvio UI (Interfaccia utente)</string>
+    <string name="no_root">"Reboot non è stato in grado di ricevere l'accesso root"</string>
+    <string name="pref_header_settings">Opzioni</string>
+    <string name="frame_preference_title">Framework</string>
+    <string name="pref_title_confirmation">Dialogo di conferma</string>
+    <string name="frame_title">Framework ottimizzato</string>
+    <string name="frame_summary">Installa un framework customizzato</string>
+    <string name="pref_title_theme">Tema</string>
+    <string name="settings">Opzioni</string>
+    <string name="title_activity_settings">Opzioni</string>
+    <string name="title_activity_shortcut">Scorciatoia Reboot</string>
+    <string name="warning_bootloader">Il dispositivo verrà riavviato in modalità bootloader</string>
+    <string name="warning_edl">Il dispositivo verrà riavviato in modalità edl (Modalità di emergenza)</string>
+    <string name="warning_hot_reboot">Il dispositivo verrà riavviato in modalità riavvio veloce</string>
+    <string name="warning_power_off">Il dispositivo verrà spento</string>
+    <string name="warning_reboot">Il dispositivo verrà riavviato</string>
+    <string name="warning_recovery">Il dispositivo verrà riavviato in modalità recovery</string>
+    <string name="warning_ui_mode">Il dispositivo verrà riavviato in modalità provvisoria</string>
+    <string name="plug_charger">1) Collega il telefono a una fonte di energia</string>
+    <string name="wait_for_completed">2) Attendere che la carica sia completa</string>
+    <string name="calibrate_earlier">"        in alternativa, calibrare prima (sconsigliato)."</string>
+    <string name="battery_calibration_title">3) Premi Calibrazione Batteria</string>
+    <string name="unplug_phone">4) Scollega il telefono</string>
+    <string name="current_charge">"Livello carica: "</string>
+    <string name="app_battery_name">Calibrazione batteria</string>
+    <string name="calibration_info_1">La calibrazione della batteria va fatta ogni qualvolta si installa un nuovo firmware. Questo programma resetta il batterystats.bin del sistema.</string>
+    <string name="calibration_info_2">Viene consigliato, ma non necessario, di lasciare scaricare il telefono dopo la calibrazione, poi caricarlo al 100% senza interruzione.</string>
+    <string name="wait_to_full">Aspetta fino al 100% (raccomandato)</string>
+    <string name="anytime_calibration">Calibra quando vuoi</string>
+    <string name="choose_option_menu_title">"Scegli un'opzione:"</string>
+    <string name="app_processor_name">Impostazioni CPU</string>
+    <string name="current_cpu">Frequenza CPU attuale</string>
+    <string name="cpu_mode">Modalità operazione CPU</string>
+    <string name="cpu_max_frequency">Imposta la frequenza massima</string>
+    <string name="cpu_min_frequency">Imposta la frequenza minima</string>
+    <string name="wifi_speed_title">Velocità rete</string>
+    <string name="wifi_speed_summary">Visualizza le opzioni download/upload nella barra di stato</string>
+    <string name="frame_res_custom_info">Framework customizzato:</string>
+    <string name="frame_info_custom_summary">"
+1) Ottimizzazione della luminosità per risparmiare batteria
+2) Possibilità di impostare cinque impronte digitali
+3) Supporto Doze
+4) LED multicolore
+5) Nessuna scansione WiFi in background
+6) altro
+"</string>
+    <string name="frame_res_stock_info">Framework stock:</string>
+    <string name="frame_info_stock_summary">"
+1) Framework predefinito senza l'ottimizzazione della luminosità
+"</string>
+    <string name="dialer_title_description">App Telefono customizzata</string>
+    <string name="dialer_preference_title">Telefono</string>
+    <string name="diler_title">Telefono customizzato</string>
+    <string name="dialer_title_summary">"Installa l'app Telefono customizzata"</string>
+    <string name="dialer_res_custom_info">Dialer ottimizzato:</string>
+    <string name="dialer_info_custom_summary">"
+1) Immagine ID chiamante ingrandita
+2) Registrazione chiamate attiva per tutte le regioni
+3) Pagine gialle rimosse
+"</string>
+    <string name="dialer_res_stock_info">Dialer stock:</string>
+    <string name="dialer_info_stock_summary">"
+1) Applicazione Telefono stock senza alcuna modifica
+"</string>
+    <string name="try_string">LeEco X820 cuoco rom!</string>
+    <string name="msg_nosdcard">Scheda SD necessaria</string>
+    <string name="msg_set">Riavviare per applicare le modifiche</string>
+    <string name="btn_set">Applica</string>
+    <string name="btn_reboot">Riavvia</string>
+    <string name="btn_close">Chiudi</string>
+    <string name="scale_string">Dim.</string>
+    <string name="sb_speed_title">Opzioni velocità di rete</string>
+    <string name="sb_speed_options">"Scegli un'opzione:"</string>
+    <string name="sb_speed_activity">Velocità di rete</string>
+    <string name="battery_wait_full">Si prega di attendere fino a quando la batteria è completamente carica!</string>
+    <string name="battery_successfull">"Calibrazione completata con successo!
+
+SCOLLEGARE IL TELEFONO DAL CARICATORE!"</string>
+    <string name="battery_cal_failed">"Calibrazione non RIUSCITA! Si prega di:
+\u0009
+1) Controllare i permessi di root!
+2) Controllare che la batteria non sia stata precedentemente calibrata!
+3) In caso contrario, scollegare e poi ricollegare il caricabatterie e cercare di calibrare di nuovo!"</string>
+    <string name="battery_root_required">Il telefono non è radicato!</string>
+    <string name="battery_never_calibrate">Se non hai mai calibrato il telefono prima, mi dispiace ma il telefono non è supportato.</string>
+    <string name="battery_already_calibrated">Se hai calibrato il telefono ignorare questo messaggio</string>
+    <string name="battery_not_found">" non trovato!"</string>
+    <string name="battery_warning">Attenzione!</string>
+    <string name="dpi_warning">"Non impostare un valore troppo basso o troppo alto! Il valore corrente è: "</string>
+    <string name="dpi_reboot_needed">È necessario riavviare il telefono per rendere le modifiche effettive</string>
+    <string name="cancel_button">Annulla</string>
+    <string name="reboot_button">Riavvia</string>
+    <string name="ui_stock_interface">Interfaccia utente stock</string>
+    <string name="ui_custom_interface">Interfaccia utente customizzata</string>
+    <string name="launcher_google">"Scorri verso l'alto per Google (default)"</string>
+    <string name="launcher_dialer">"Scorri verso l'alto per l'app Telefono"</string>
+    <string name="optimized_dialer">Telefono ottimizzato</string>
+    <string name="switch_apply">Applica</string>
+    <string name="switch_cancel">Annulla</string>
+    <string name="optimized_framework">Opzioni framework</string>
+    <string name="stock_framework">Framework predefinito</string>
+    <string name="battery_unplug">SCOLLEGARE IL TELEFONO DAL CARICATORE!</string>
+    <string name="app_gps_name">Impostazioni GPS</string>
+    <string name="country_prompt">Scegli la tua posizione geografica</string>
+    <string name="gps_info_title">Scegli la tua regione dalla lista qui sotto</string>
+    <string name="roottest_title">Testing prerequisites</string>
+    <string name="gps_options">Gps</string>
+    <string name="gps_settings_title">Modifica le impostazioni del GPS</string>
+    <string name="gps_settings_title_summary">Seleziona la tua regione dalla lista</string>
+    <string name="gps_apply">Applica</string>
+    <string name="gps_current_server">Server attuale:</string>
+    <string name="gps_select_server">Seleziona un server:</string>
+    <string name="camera_api_settings">Camera API</string>
+    <string name="camera_api_settings_title">Supporto HAL3 fotocamera</string>
+    <string name="camera_api_settings_title_summary">Scatta le foto in formato RAW Attenzione: questa funzione non è completamente compatibile con la fotocamera di serie e altre terze applicazioni</string>
+    <string name="api_title_description">Abilita la funzione HAL3 della fotocamera</string>
+    <string name="api_title_summary">Scatta le foto in formato RAW</string>
+    <string name="permissions_title_description">Impostazioni LeEco</string>
+    <string name="permissions_title_summary">Abilita o disabilita i servizi LeEco</string>
+    <string name="le_app_custom_info">Applicazioni LeEco come:</string>
+    <string name="permissions_info_custom_summary">LetvAccount, LetvWallet, LetvOta e molti altri</string>
+    <string name="permissions_preference_title">Servizi LeEco</string>
+    <string name="le_title_description">Applicazioni LeEco</string>
+    <string name="le_title_summary">Abilita o disabilita i servizi LeEco</string>
+    <string name="mtk_cuoco_title">Mediatek</string>
+    <string name="mtk_settings_title">Impostazioni Mediatek</string>
+    <string name="mtk_settings_summary">Uttilizza tutte le impostazioni avanzate Mediatek</string>
+    <string name="mtk_locationEM2_title">Impostazioni localizzazione</string>
+    <string name="mtk_locationEM2_summary">Gestisci il GPS, AGPS e altre impostazioni</string>
+    <string name="systemuiaosp_settings">Stile android stock</string>
+    <string name="systemui_aosp_title_description">Interfaccia utente</string>
+    <string name="aosp_systemui_title_summary">"Scegli tra l'interfaccia Android personalizzata e i collegamenti sulla tendina delle notifiche"</string>
+    <string name="aosp_default_ui_title">Intercaccia classica android senza collegamenti</string>
+    <string name="aosp_customized_ui_title">Intercaccia classica android con collegamenti</string>
+    <string name="systemui_aosp_switch_title">Gestione applicazioni (Stile android)</string>
+    <string name="systemui_aosp_switch_summary">"Scegli tra l'interfaccia Android personalizzata e i collegamenti sulla tendina delle notifiche"</string>
+    <string name="app_tz_name">Fuso orario</string>
+    <string name="label_selected_timezone">Selezionato</string>
+    <string name="error">Errore!</string>
+    <string name="time_zone_changed">Il fuso orario è stato aggiornato</string>
+    <string name="now">Attuale:</string>
+    <string name="tzone_title">Aggiornamento fuso orario</string>
+    <string name="tzone_summary">Seleziona e cambia il fuso orario sul tuo telefono</string>
+    <string name="volte_title_description">VoLTE</string>
+    <string name="volte_title_summary">Abilita il supporto VoLTE sul tuo dispositivo su una rete LTE 4G. Attenzione: questa opzione potrebbe incidere sulla durata della batteria</string>
+    <string name="chrg_title_description">Carica rapida</string>
+    <string name="chrg_title_summary">Abilita o disabilita la ricarica rapida sul dispositivo</string>
+    <string name="volte_title_mdescription">Supporto VoLTE (riavvio neccessario)</string>
+    <string name="volte_title_msummary">"VoLTE può collegare le chiamate fino a due volte più velocemente dei metodi attuali e le connessioni 2G e 3G saranno ancora disponibili quando non c'è segnale 4G."</string>
+    <string name="chrg_title_mdescription">Carica rapida</string>
+    <string name="chrg_title_msummary">Abilita o disabilita la carica rapida sul dispositivo</string>
+    <string name="volte_menu">VoLTE</string>
+    <string name="charge_menu">Carica rapida</string>
+    <string name="quickboot_title_mdescription">Avvio rapido</string>
+    <string name="quickboot_title_msummary">Abilita la funzione di avvio rapido sul dispositivo.</string>
+    <string name="quickboot_title_description">Avvio rapido</string>
+    <string name="quickboot_title_summary">Velocizza il tempo di avvio del tuo dispositivo. Attenzione: questa opzione potrebbe causare instabilità del sistema.</string>
+    <string name="app_quickboot_name">Avvio rapido (sperimentale)</string>
+    <string name="nubia_fontchooser_summary">Permette di cambiare lo stile dei caratteri (accesso root)</string>
+    <string name="root_app_title">Gestore applicazione di sistema</string>
+    <string name="root_application_settings_title">Gestore applicazione di sistema</string>
+    <string name="root_application_settings_summary">Disinstallatore avanzato applicazioni di sistema. Per favore utilizzalo con cautela!</string>
+    <string name="advanced_mod_homescreen">Schermata Home</string>
+    <string name="call_record_title">Registrazione chiamate</string>
+    <string name="pref_header_libraries">Librerie usate</string>
+    <string name="beep_if_charged">Suona al 100%</string>
+    <string name="battery_dont_beep">Nessun suono</string>
+    <string name="show_network_speed_title">Gestisci velocità rete</string>
+    <string name="font_app_name">Scegli carattere</string>
+    <string name="app_menu_title">Stile barra di stato</string>
+    <string name="ui_secondary_title">Scegli tra lo stile iOS o quello standard EUI</string>
+    <string name="ui_info_switcheui">"INFO:
+	
+Fai un doppio tap con il dito sul nome dello stile che vuoi applicare.
+Il processo dell'interfaccia utente verrà riavviato automaticamente per applicare i cambiamenti!
+
+
+
+ATTENZIONE:
+
+Assicurati di avere impostato l'interfaccia EUI prima di applicare questa opzione. 
+In caso contrario, la modifica non avrà nessun effetto!"</string>
+    <string name="ui_info_switchaosp">"INFO:
+
+Fai un doppio tap con il dito sul nome dello stile che vuoi applicare.
+Il processo dell'interfaccia utente verrà riavviato automaticamente per applicare i cambiamenti!
+
+
+ATTENZIONE:
+
+Assicurati di avere impostato l'interfaccia Android stock prima di applicare questa opzione. 
+In caso contrario, la modifica non avrà nessun effetto!"</string>
+    <string name="ui_button_title1">"  Barra di stato stile EUI (predefinita)"</string>				
+    <string name="ui_button_title2">"  Barra di stato stile iOS"</string>
+    <string name="ui_button_title3">"  Barra di stato stile MIUI"</string>	
+    <string name="softkeys_title_description">Tasti virtuali</string>
+    <string name="softkeys_title_summary">"Attiva o disattiva l'illuminazione dei tasti virtuali"</string>	
+    <string name="softkeys_app_name">Tasti virtuali</string>	
+	<string name="statusbar_mtitle">Stile barra di stato</string>
+    <string name="statusbar_mtitle_summary">Scegli tra lo stile iOS o quello standard EUI</string>	
+    <string name="softkeys_mtitle_description">Tasti virtuali</string>	
+    <string name="softkeys_mtitle_summary">Attiva o disattiva la illuminazione dei tasti virtuali</string>
+    <string name="perfservice_title_mdescription">Perfservice</string>
+    <string name="perfservice_mtitle_summary">Abilita o disabilita le prestazioni della CPU</string>
+    <string name="perfservice_mtitle_description">Servizio Perfservice</string>
+    <string name="perfservice_title_msummary">"Questa opzione abiliterà il servizio di prestazioni della CPU. Questa funzione è consigliata per i giocatori e comporterà un ulteriore consumo della batteria!"</string>	
+</resources>

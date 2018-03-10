@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sbspeed_options">
+        <item>Spento</item>
+        <item>Solo download</item>
+        <item>Solo upload</item>
+        <item>Download e upload</item>
+    </string-array>
+    <string-array name="sbspeed_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="reboot_options">
+        <item>Riavvia</item>
+        <item>Riavvia recovery</item>
+        <item>Riavvia bootloader</item>
+        <item>Spegni</item>
+    </string-array>
+    <string-array name="wireless_copy">
+        <item>Copia hotspots</item>
+        <item>Copia la password</item>
+        <item>Copia hotspots e passwords</item>
+    </string-array>
+    <string-array name="country_array">
+        <item>Europa</item>
+        <item>Asia</item>
+        <item>Nord-America</item>
+        <item>Oceania</item>
+        <item>Sud-America</item>
+        <item>Olanda</item>
+        <item>China</item>
+        <item>Russia</item>
+        <item>India</item>
+        <item>Regno Unito</item>
+        <item>Germania</item>
+        <item>Francia</item>
+        <item>Giappone</item>
+        <item>Italia</item>
+        <item>Polonia</item>
+        <item>Malaysia</item>
+        <item>Korea</item>
+        <item>Personalizzato</item>
+    </string-array>
+</resources>
