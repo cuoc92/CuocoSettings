@@ -219,6 +219,7 @@ Click to copy WIFI related information"</string>
     <string name="calibration_info_2">"It's suggested, but not necessary, to let the phone fully discharge after calibration, then charged to 100% without break."</string>
     <string name="wait_to_full">Wait to 100% (recommended)</string>
     <string name="anytime_calibration">Calibrate any time</string>
+    <string name="choose_option_menu_title">Choose an option:</string>
     <string name="status_bar_network_traffic_style_disable">Disabled</string>
     <string name="status_bar_network_traffic_style_up">Outgoing</string>
     <string name="status_bar_network_traffic_style_down">Incoming</string>
@@ -314,8 +315,8 @@ UNPLUG THE CHARGE CABLE NOW!"</string>
     <string name="gps_current_server">Current server:</string>
     <string name="gps_select_server">Select a server:</string>
     <string name="camera_api_settings">Camera API</string>
-    <string name="camera_api_settings_title">Enable camera HAL3 feature</string>
-    <string name="camera_api_settings_title_summary">Take pictures in RAW format</string>
+    <string name="camera_api_settings_title">Camera HAL3 feature</string>
+    <string name="camera_api_settings_title_summary">Take pictures in RAW format. Attention: this feature is not fully compatible with stock camera and some other third applications</string>
     <string name="api_title_description">Enable camera HAL3 feature</string>
     <string name="api_title_summary">Take pictures in RAW format</string>
     <string name="permissions_title_description">LeEco settings</string>
@@ -325,17 +326,74 @@ UNPLUG THE CHARGE CABLE NOW!"</string>
     <string name="permissions_preference_title">LeEco services</string>
     <string name="le_title_description">LeEco applications</string>
     <string name="le_title_summary">Enable or disable all LeEco application at once</string>
-    <string name="mtk_cuoco_title">Mediatek settings</string>	
-    <string name="mtk_settings_title">Engineer tools</string>	
+    <string name="mtk_cuoco_title">Mediatek settings</string>
+    <string name="mtk_settings_title">Engineer tools</string>
     <string name="mtk_settings_summary">Get all the Engineering Mode MediaTek advanced settings</string>
-    <string name="mtk_locationEM2_title">Location settings</string>	
+    <string name="mtk_locationEM2_title">Location settings</string>
     <string name="mtk_locationEM2_summary">Manage GPS, AGPS and other settings</string>
-    <string name="systemuiaosp_settings">Android stock UI Style</string>	
+    <string name="systemuiaosp_settings">Android stock UI Style</string>
     <string name="systemui_aosp_title_description">User interface</string>
-    <string name="aosp_systemui_title_summary">Choose between stock android and toggles on pulldown notifications</string>	
+    <string name="aosp_systemui_title_summary">Choose between stock android and toggles on pulldown notifications</string>
     <string name="aosp_default_ui_title">Android classical interface without toggles</string>
     <string name="aosp_customized_ui_title">Android classical interface with toggles</string>
     <string name="systemui_aosp_switch_title">Taskmanager stock (Android style)</string>
     <string name="systemui_aosp_switch_summary">Choose between stock android and customized toggles</string>
-    <string name="choose_option_menu_title">Choose an option:</string>	
+    <string name="app_tz_name">TimeZone</string>
+    <string name="label_selected_timezone">Selected</string>
+    <string name="error">Error!</string>
+    <string name="time_zone_changed">Timezone has been changed</string>
+    <string name="now">Current timezone:</string>
+    <string name="tzone_title">TimeZone updater</string>
+    <string name="tzone_summary">Select and change the timezone on you phone</string>
+    <string name="volte_title_description">VoLTE</string>
+    <string name="volte_title_summary">Enable VoLTE support on you device over a 4G LTE network. Warning: this option may affect battery life</string>
+    <string name="chrg_title_description">Fastcharge</string>
+    <string name="chrg_title_summary">Enable or disable fastcharge mode on your device</string>
+    <string name="volte_title_mdescription">VoLTE support (reboot required)</string>
+    <string name="volte_title_msummary">VoLTE can connect calls up to twice as fast as the current methods and as 2G and 3G connections will still be available when there’s no 4G signal.</string>
+    <string name="chrg_title_mdescription">Fastcharge</string>
+    <string name="chrg_title_msummary">Enable or disable fastcharge mode on your device</string>
+    <string name="volte_menu">VoLTE</string>
+    <string name="charge_menu">Fastcharge</string>
+    <string name="quickboot_title_mdescription">Quickboot</string>
+    <string name="quickboot_title_msummary">Enable quickboot function on your device.</string>
+    <string name="quickboot_title_description">Quickboot</string>
+    <string name="quickboot_title_summary">Speedup the boot time of you device. Attention: this option may cause some system instability.</string>
+    <string name="app_quickboot_name">Quickboot (Experimental)</string>
+    <string name="hosts_title_mdescription">Block ads</string>
+    <string name="hosts_title_msummary">Block ads, banners, 3rd party Cookies, 3rd party page counters</string>
+    <string name="hosts_title">Block ADS</string>
+    <string name="app_menu_title">Statusbar style</string>
+    <string name="ui_secondary_title">Choose between iOS style or standard EUI</string>
+    <string name="ui_info_switcheui">"INFO:
+
+Double-tap on the name of the style you want to apply.
+The UI process will restart automatically to add the changes!
+
+
+
+CAUTION:
+
+Make sure you have set up the EUI interface before applying this option.
+Otherwise, the change will have no effect!"</string>
+    <string name="ui_info_switchaosp">"INFO:
+
+Double-tap on the name of the style you want to apply.
+The UI process will restart automatically to add the changes!
+
+
+
+CAUTION:
+
+Make sure you have set up the Android stock interface before applying this option.
+Otherwise, the change will have no effect!"</string>
+    <string name="ui_button_title1">"  Statusbar style like iOS"</string>				
+    <string name="ui_button_title2">"  Statusbar sytle EUI (default)"</string>
+    <string name="softkeys_title_description">Softkeys</string>
+    <string name="softkeys_title_summary">Enable or disable softkeys light</string>	
+    <string name="softkeys_app_name">Softkeys manager</string>	
+	<string name="statusbar_mtitle">Statusbar style</string>
+    <string name="statusbar_mtitle_summary">Choose between iOS style or standard EUI</string>	
+    <string name="softkeys_mtitle_description">Softkeys</string>	
+    <string name="softkeys_mtitle_summary">Enable or disable softkeys light</string>	
 </resources>
