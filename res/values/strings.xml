@@ -371,7 +371,6 @@ Double-tap on the name of the style you want to apply.
 The UI process will restart automatically to add the changes!
 
 
-
 CAUTION:
 
 Make sure you have set up the EUI interface before applying this option.
@@ -382,18 +381,23 @@ Double-tap on the name of the style you want to apply.
 The UI process will restart automatically to add the changes!
 
 
-
 CAUTION:
 
 Make sure you have set up the Android stock interface before applying this option.
 Otherwise, the change will have no effect!"</string>
     <string name="ui_button_title1">"  Statusbar style like iOS"</string>				
     <string name="ui_button_title2">"  Statusbar sytle EUI (default)"</string>
+    <string name="ui_button_title3">"  Statusbar sytle MIUI"</string>	
     <string name="softkeys_title_description">Softkeys</string>
     <string name="softkeys_title_summary">Enable or disable softkeys light</string>	
     <string name="softkeys_app_name">Softkeys manager</string>	
-    <string name="statusbar_mtitle">Statusbar style</string>
+	<string name="statusbar_mtitle">Statusbar style</string>
     <string name="statusbar_mtitle_summary">Choose between iOS style or standard EUI</string>	
     <string name="softkeys_mtitle_description">Softkeys</string>	
-    <string name="softkeys_mtitle_summary">Enable or disable softkeys light</string>	
+    <string name="softkeys_mtitle_summary">Enable or disable softkeys light</string>
+    <string name="app_perfservice_title">Perfservice</string>	
+    <string name="perfservice_title_mdescription">Perfservice</string>
+    <string name="perfservice_mtitle_summary">Enable or disable CPU performance</string>
+    <string name="perfservice_mtitle_description">Perfservice</string>
+    <string name="perfservice_title_msummary">This option will enable CPU performance service. This feature is recommended for gamers and will result in additional battery consumption!</string>
 </resources>
