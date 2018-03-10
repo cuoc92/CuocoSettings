@@ -14,7 +14,7 @@
     </string-array>
     <string-array name="reboot_options">
         <item>Redémarrer</item>
-        <item>Redémarrer (Recovery) </item>
+        <item>Redémarrer (Recovery)</item>
         <item>Redémarrer (Bootloader)</item>
         <item>Eteindre</item>
     </string-array>

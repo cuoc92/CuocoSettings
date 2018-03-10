@@ -1,0 +1,46 @@
+<resources>
+    <string-array name="sbspeed_options">
+        <item>"הסתר"</item>
+        <item>"מהירות הורדה"</item>
+        <item>"מהירות העלאה"</item>
+        <item>"מהירות העלאה/הורדה"</item>
+    </string-array>
+    <string-array name="reboot_options">
+        <item>"אתחול"</item>
+        <item>"אתחול למצב ריקוברי"</item>
+        <item>"אתחול למצב Bootloader"</item>
+        <item>"כיבוי"</item>
+    </string-array>
+    <string-array name="wireless_copy">
+        <item>"העתק נקודות חמות"</item>
+        <item>"העתק את הסיסמה"</item>
+        <item>"העתק נקודות חמות וסיסמאות"</item>
+    </string-array>
+    <string-array name="themes">
+        <item>"מטריאל כהה"</item>
+        <item>"מטריאל בהיר"</item>
+        <item>"כתום"</item>
+        <item>"אָדוֹם"</item>
+        <item>"אִינדִיגוֹ"</item>
+    </string-array>
+    <string-array name="country_array">
+        <item>"אֵירוֹפָּה"</item>
+        <item>"אַסְיָה"</item>
+        <item>"צפון אמריקה"</item>
+        <item>"אוקיאניה"</item>
+        <item>"דרום אמריקה"</item>
+        <item>"הולנד"</item>
+        <item>"סין"</item>
+        <item>"רוּסִיָה"</item>
+        <item>"הוֹדוּ"</item>
+        <item>"הממלכה המאוחדת"</item>
+        <item>"גֶרמָנִיָה"</item>
+        <item>"צָרְפַת"</item>
+        <item>"יפן"</item>
+        <item>"אִיטַלִיָה"</item>
+        <item>"פּוֹלִין"</item>
+        <item>"מלזיה"</item>
+        <item>"קוריאה"</item>
+        <item>"מִותאם אישית"</item>
+    </string-array>
+</resources>

@@ -50,7 +50,7 @@
     <string name="xposed_framework_title">Modules Xposed</string>
     <string name="xposed_framework_summary">Télécharger et gérer les modules Xposed. Certains modules peuvent ne pas être pris en charge</string>
     <string name="unroot_main_title">Gestion du Root</string>
-    <string name="unroot_device_title">Unrooter votre appareil </string>
+    <string name="unroot_device_title">Unrooter votre appareil</string>
     <string name="unroot_device_summary">Vous pouvez Unrooter le téléphone avec cette option. Certaines fonctionnalités risquent de ne pas fonctionner correctement</string>
     <string name="suspersu_main_title">Gestion SuperSU</string>
     <string name="suspersu_main_summary">"SuperSU vous donne une gestion avancée d'accès Super-utilisateur pour toutes les applications ayant besoin de root"</string>
@@ -62,11 +62,11 @@
     <string name="cpu_mod_title">Paramètres CPU</string>
     <string name="cpu_mod_summary">Mettre en place la fréquence CPU et le mode Gouverneur</string>
     <string name="left_tap">Touche virtuelle gauche</string>
-    <string name="left_tap_summary">"Un seul appui pour voir le Gestionnaire des täches. Un appui long pour lancer l'action définie dans le menu <u>Paramètres > Accessibilité</u> "</string>
+    <string name="left_tap_summary">"Un seul appui pour voir le Gestionnaire des täches. Un appui long pour lancer l'action définie dans le menu "<u>Paramètres > Accessibilité</u>" "</string>
     <string name="frame_title_description">Framework customisé</string>
     <string name="frame_title_summary">Choisir entre le framework optimisé ou Stock sans optimisations</string>
     <string name="home_tap">Touche virtuelle centrale</string>
-    <string name="home_tap_summary">"Un appui pour afficher l'écran d'acceuil principale. Un long appui pour lancer une action définie dans le menu <u>Paramètres>Accessibilité</u> "</string>
+    <string name="home_tap_summary">"Un appui pour afficher l'écran d'acceuil principale. Un long appui pour lancer une action définie dans le menu "<u>Paramètres>Accessibilité</u>" "</string>
     <string name="right_tap">Touche virtuelle droite</string>
     <string name="right_tap_summary">"Un seul appui pour le standby. Un appui long pour afficher les options du bouton d'alimentation"</string>
     <string name="led_light_title">Notifications LED</string>
@@ -92,7 +92,7 @@
     <string name="eui_mod_options">Fonctionnalités EUI</string>
     <string name="wifi_options_title">Options Wifi</string>
     <string name="leui_wifi_pass_title">Mot de passe Wifi</string>
-    <string name="leui_wifi_pass_summary"> Affiche tout les mots de passe entrés manuellement, pas ceux scannés avec un QR-Code</string>
+    <string name="leui_wifi_pass_summary">Affiche tout les mots de passe entrés manuellement, pas ceux scannés avec un QR-Code</string>
     <string name="mod_Dcase_summary">Jouer à Easter Eggs Marshmallow</string>
     <string name="mod_Mland_summary">Jouer au jeu Marshmallow Land</string>
     <string name="call_cuoco_title">Paramètres Appels</string>
@@ -219,6 +219,7 @@ Cliquer pour copier les infos concernant le WIFI"</string>
     <string name="calibration_info_2">"C'est suggéré mais pas nécessaire de laisser le téléphone se décharger complètement après une calibration puis le recharger à 100%."</string>
     <string name="wait_to_full">"Attendre jusqu'à 100% (recommandé)"</string>
     <string name="anytime_calibration">Calibrer à tout moment</string>
+    <string name="choose_option_menu_title">Choisissez une option:</string>
     <string name="status_bar_network_traffic_style_disable">Désactivé</string>
     <string name="status_bar_network_traffic_style_up">Sortant</string>
     <string name="status_bar_network_traffic_style_down">Entrant</string>
@@ -324,17 +325,16 @@ DEBRANCHER LE CÂBLE MAINTENANT!"</string>
     <string name="permissions_preference_title">Services LeEco</string>
     <string name="le_title_description">Applications LeEco</string>
     <string name="le_title_summary">Activer ou désactiver toutes les applications LeEco en une fois</string>
-    <string name="mtk_cuoco_title">Paramètres Mediatek</string>	
-    <string name="mtk_settings_title">Outils Engineer Tools</string>	
+    <string name="mtk_cuoco_title">Paramètres Mediatek</string>
+    <string name="mtk_settings_title">Outils Engineer Tools</string>
     <string name="mtk_settings_summary">Tous les paramètres avancés du mode Engineering de Mediatek</string>
-    <string name="mtk_locationEM2_title">Paramètres de localisation</string>	
+    <string name="mtk_locationEM2_title">Paramètres de localisation</string>
     <string name="mtk_locationEM2_summary">"Gérer le GPS, AGPS et d'autres paramètres"</string>
-    <string name="systemuiaosp_settings">"Style de l'UI Android AOSP"</string>	
+    <string name="systemuiaosp_settings">"Style de l'UI Android AOSP"</string>
     <string name="systemui_aosp_title_description">Interface Utilisateur (UI)</string>
-    <string name="aosp_systemui_title_summary">Choisir avec ou sans les raccourcis déroulants dans les notifications</string>	
+    <string name="aosp_systemui_title_summary">Choisir avec ou sans les raccourcis déroulants dans les notifications</string>
     <string name="aosp_default_ui_title">Interface Android classique sans raccourcis dans les notifications</string>
     <string name="aosp_customized_ui_title">Interface Android classique avec raccourcis dans les notifications</string>
     <string name="systemui_aosp_switch_title">Centre de contrôle (Style AOSP)</string>
     <string name="systemui_aosp_switch_summary">Choisir entre Android AOSP et customisé</string>
-    <string name="choose_option_menu_title">Choisissez une option:</string>	
 </resources>

@@ -200,6 +200,7 @@ Premi per copiare le informazioni WIFI"</string>
     <string name="calibration_info_2">Viene consigliato, ma non necessario, di lasciare scaricare il telefono dopo la calibrazione, poi caricarlo al 100% senza interruzione.</string>
     <string name="wait_to_full">Aspetta fino al 100% (raccomandato)</string>
     <string name="anytime_calibration">Calibra quando vuoi</string>
+    <string name="choose_option_menu_title">"Scegli un'opzione:"</string>
     <string name="app_processor_name">Impostazioni CPU</string>
     <string name="current_cpu">Frequenza CPU attuale</string>
     <string name="cpu_mode">Modalità operazione CPU</string>
@@ -282,6 +283,11 @@ SCOLLEGARE IL TELEFONO DAL CARICATORE!"</string>
     <string name="gps_apply">Applica</string>
     <string name="gps_current_server">Server attuale:</string>
     <string name="gps_select_server">Seleziona un server:</string>
+    <string name="camera_api_settings">Camera API</string>
+    <string name="camera_api_settings_title">Supporto HAL3 fotocamera</string>
+    <string name="camera_api_settings_title_summary">Scatta le foto in formato RAW Attenzione: questa funzione non è completamente compatibile con la fotocamera di serie e altre terze applicazioni</string>
+    <string name="api_title_description">Abilita la funzione HAL3 della fotocamera</string>
+    <string name="api_title_summary">Scatta le foto in formato RAW</string>
     <string name="permissions_title_description">Impostazioni LeEco</string>
     <string name="permissions_title_summary">Abilita o disabilita i servizi LeEco</string>
     <string name="le_app_custom_info">Applicazioni LeEco come:</string>
@@ -289,6 +295,40 @@ SCOLLEGARE IL TELEFONO DAL CARICATORE!"</string>
     <string name="permissions_preference_title">Servizi LeEco</string>
     <string name="le_title_description">Applicazioni LeEco</string>
     <string name="le_title_summary">Abilita o disabilita i servizi LeEco</string>
+    <string name="mtk_cuoco_title">Mediatek</string>
+    <string name="mtk_settings_title">Impostazioni Mediatek</string>
+    <string name="mtk_settings_summary">Uttilizza tutte le impostazioni avanzate Mediatek</string>
+    <string name="mtk_locationEM2_title">Impostazioni localizzazione</string>
+    <string name="mtk_locationEM2_summary">Gestisci il GPS, AGPS e altre impostazioni</string>
+    <string name="systemuiaosp_settings">Stile android stock</string>
+    <string name="systemui_aosp_title_description">Interfaccia utente</string>
+    <string name="aosp_systemui_title_summary">"Scegli tra l'interfaccia Android personalizzata e i collegamenti sulla tendina delle notifiche"</string>
+    <string name="aosp_default_ui_title">Intercaccia classica android senza collegamenti</string>
+    <string name="aosp_customized_ui_title">Intercaccia classica android con collegamenti</string>
+    <string name="systemui_aosp_switch_title">Gestione applicazioni (Stile android)</string>
+    <string name="systemui_aosp_switch_summary">"Scegli tra l'interfaccia Android personalizzata e i collegamenti sulla tendina delle notifiche"</string>
+    <string name="app_tz_name">Fuso orario</string>
+    <string name="label_selected_timezone">Selezionato</string>
+    <string name="error">Errore!</string>
+    <string name="time_zone_changed">Il fuso orario è stato aggiornato</string>
+    <string name="now">Attuale:</string>
+    <string name="tzone_title">Aggiornamento fuso orario</string>
+    <string name="tzone_summary">Seleziona e cambia il fuso orario sul tuo telefono</string>
+    <string name="volte_title_description">VoLTE</string>
+    <string name="volte_title_summary">Abilita il supporto VoLTE sul tuo dispositivo su una rete LTE 4G. Attenzione: questa opzione potrebbe incidere sulla durata della batteria</string>
+    <string name="chrg_title_description">Carica rapida</string>
+    <string name="chrg_title_summary">Abilita o disabilita la ricarica rapida sul dispositivo</string>
+    <string name="volte_title_mdescription">Supporto VoLTE (riavvio neccessario)</string>
+    <string name="volte_title_msummary">"VoLTE può collegare le chiamate fino a due volte più velocemente dei metodi attuali e le connessioni 2G e 3G saranno ancora disponibili quando non c'è segnale 4G."</string>
+    <string name="chrg_title_mdescription">Carica rapida</string>
+    <string name="chrg_title_msummary">Abilita o disabilita la carica rapida sul dispositivo</string>
+    <string name="volte_menu">VoLTE</string>
+    <string name="charge_menu">Carica rapida</string>
+    <string name="quickboot_title_mdescription">Avvio rapido</string>
+    <string name="quickboot_title_msummary">Abilita la funzione di avvio rapido sul dispositivo.</string>
+    <string name="quickboot_title_description">Avvio rapido</string>
+    <string name="quickboot_title_summary">Velocizza il tempo di avvio del tuo dispositivo. Attenzione: questa opzione potrebbe causare instabilità del sistema.</string>
+    <string name="app_quickboot_name">Avvio rapido (sperimentale)</string>
     <string name="nubia_fontchooser_summary">Permette di cambiare lo stile dei caratteri (accesso root)</string>
     <string name="root_app_title">Gestore applicazione di sistema</string>
     <string name="root_application_settings_title">Gestore applicazione di sistema</string>
@@ -300,17 +340,37 @@ SCOLLEGARE IL TELEFONO DAL CARICATORE!"</string>
     <string name="battery_dont_beep">Nessun suono</string>
     <string name="show_network_speed_title">Gestisci velocità rete</string>
     <string name="font_app_name">Scegli carattere</string>
-    <string name="mtk_cuoco_title">Mediatek</string>	
-    <string name="mtk_settings_title">Impostazioni Mediatek</string>	
-    <string name="mtk_settings_summary">Uttilizza tutte le impostazioni avanzate Mediatek</string>
-    <string name="mtk_locationEM2_title">Impostazioni localizzazione</string>	
-    <string name="mtk_locationEM2_summary">Gestisci il GPS, AGPS e altre impostazioni</string>
-    <string name="systemuiaosp_settings">Stile android stock</string>	
-    <string name="systemui_aosp_title_description">Interfaccia utente</string>
-    <string name="aosp_systemui_title_summary">"Scegli tra l'interfaccia Android personalizzata e i collegamenti sulla tendina delle notifiche"</string>	
-    <string name="aosp_default_ui_title">Intercaccia classica android senza collegamenti</string>
-    <string name="aosp_customized_ui_title">Intercaccia classica android con collegamenti</string>
-    <string name="systemui_aosp_switch_title">Gestione applicazioni (Stile android)</string>
-    <string name="systemui_aosp_switch_summary">"Scegli tra l'interfaccia Android personalizzata e i collegamenti sulla tendina delle notifiche"</string>
-    <string name="choose_option_menu_title">"Scegli un'opzione:</string>	
+    <string name="app_menu_title">Stile barra di stato</string>
+    <string name="ui_secondary_title">Scegli tra lo stile iOS o quello standard EUI</string>
+    <string name="ui_info_switcheui">"INFO:
+	
+Fai un doppio tap con il dito sul nome dello stile che vuoi applicare.
+Il processo dell'interfaccia utente verrà riavviato automaticamente per applicare i cambiamenti!
+
+
+
+ATTENZIONE:
+
+Assicurati di avere impostato l'interfaccia EUI prima di applicare questa opzione. 
+In caso contrario, la modifica non avrà nessun effetto!"</string>
+    <string name="ui_info_switchaosp">"INFO:
+
+Fai un doppio tap con il dito sul nome dello stile che vuoi applicare.
+Il processo dell'interfaccia utente verrà riavviato automaticamente per applicare i cambiamenti!
+
+
+
+ATTENZIONE:
+
+Assicurati di avere impostato l'interfaccia Android stock prima di applicare questa opzione. 
+In caso contrario, la modifica non avrà nessun effetto!"</string>
+    <string name="ui_button_title1">"  Barra di stato stile iOS"</string>				
+    <string name="ui_button_title2">"  Barra di stato stile EUI (predefinita)"</string>
+    <string name="softkeys_title_description">Tasti virtuali</string>
+    <string name="softkeys_title_summary">"Attiva o disattiva l'illuminazione dei tasti virtuali"</string>	
+    <string name="softkeys_app_name">Tasti virtuali</string>	
+	<string name="statusbar_mtitle">Stile barra di stato</string>
+    <string name="statusbar_mtitle_summary">Scegli tra lo stile iOS o quello standard EUI</string>	
+    <string name="softkeys_mtitle_description">Tasti virtuali</string>	
+    <string name="softkeys_mtitle_summary">Attiva o disattiva la illuminazione dei tasti virtuali</string>		
 </resources>
