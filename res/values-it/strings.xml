@@ -4,7 +4,7 @@
     <string name="action_settings">Impostazioni</string>
     <string name="notifications_app_name">Notifiche USB</string>
     <string name="cuoco_settings">Impostazioni cuoco</string>
-    <string name="advanced_cuoco_title">Impostazioni avanzate</string>
+    <string name="advanced_cuoco_title">IMPOSTAZIONI AVANZATE</string>
     <string name="ic_settings_restart_title">Opzioni riavvio</string>
     <string name="settings_fontchooser_title">Modifica stile caratteri</string>
     <string name="ic_ota_updater_title">Aggiornamenti sistema</string>
@@ -359,18 +359,22 @@ Fai un doppio tap con il dito sul nome dello stile che vuoi applicare.
 Il processo dell'interfaccia utente verrà riavviato automaticamente per applicare i cambiamenti!
 
 
-
 ATTENZIONE:
 
 Assicurati di avere impostato l'interfaccia Android stock prima di applicare questa opzione. 
 In caso contrario, la modifica non avrà nessun effetto!"</string>
-    <string name="ui_button_title1">"  Barra di stato stile iOS"</string>				
-    <string name="ui_button_title2">"  Barra di stato stile EUI (predefinita)"</string>
+    <string name="ui_button_title1">"  Barra di stato stile EUI (predefinita)"</string>				
+    <string name="ui_button_title2">"  Barra di stato stile iOS"</string>
+    <string name="ui_button_title3">"  Barra di stato stile MIUI"</string>	
     <string name="softkeys_title_description">Tasti virtuali</string>
     <string name="softkeys_title_summary">"Attiva o disattiva l'illuminazione dei tasti virtuali"</string>	
     <string name="softkeys_app_name">Tasti virtuali</string>	
 	<string name="statusbar_mtitle">Stile barra di stato</string>
     <string name="statusbar_mtitle_summary">Scegli tra lo stile iOS o quello standard EUI</string>	
     <string name="softkeys_mtitle_description">Tasti virtuali</string>	
-    <string name="softkeys_mtitle_summary">Attiva o disattiva la illuminazione dei tasti virtuali</string>		
+    <string name="softkeys_mtitle_summary">Attiva o disattiva la illuminazione dei tasti virtuali</string>
+    <string name="perfservice_title_mdescription">Perfservice</string>
+    <string name="perfservice_mtitle_summary">Abilita o disabilita le prestazioni della CPU</string>
+    <string name="perfservice_mtitle_description">Servizio Perfservice</string>
+    <string name="perfservice_title_msummary">"Questa opzione abiliterà il servizio di prestazioni della CPU. Questa funzione è consigliata per i giocatori e comporterà un ulteriore consumo della batteria!"</string>	
 </resources>
