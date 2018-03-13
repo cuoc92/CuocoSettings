@@ -5,7 +5,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="notifications_app_name">Power Notifier</string>
     <string name="cuoco_settings">Cuoco settings</string>
-    <string name="advanced_cuoco_title">Advanced settings</string>
+    <string name="advanced_cuoco_title">ADVANCED SETTINGS</string>
     <string name="ic_settings_restart_title">Reboot settings</string>
     <string name="settings_fontchooser_title">Change system font</string>
     <string name="ic_ota_updater_title">System updates</string>
@@ -316,8 +316,10 @@ UNPLUG THE CHARGE CABLE NOW!"</string>
     <string name="gps_select_server">Select a server:</string>
     <string name="camera_api_settings">Camera API</string>
     <string name="camera_api_settings_title">Camera HAL3 feature</string>
-    <string name="camera_api_settings_title_summary">Take pictures in RAW format. Attention: this feature is not fully compatible with stock camera and some other third applications</string>
-    <string name="api_title_description">Enable camera HAL3 feature</string>
+    <string name="camera_api_settings_title_summary">"Take pictures in RAW format
+Attention: this feature might not be compatible with stock camera"</string>
+    <string name="api_title_description">"Enable camera HAL3 feature.
+(reboot necessary)"</string>
     <string name="api_title_summary">Take pictures in RAW format</string>
     <string name="permissions_title_description">LeEco settings</string>
     <string name="permissions_title_summary">Enable or disable all LeEco application at once</string>
@@ -364,7 +366,7 @@ UNPLUG THE CHARGE CABLE NOW!"</string>
     <string name="hosts_title_msummary">Block ads, banners, 3rd party Cookies, 3rd party page counters</string>
     <string name="hosts_title">Block ADS</string>
     <string name="app_menu_title">Statusbar style</string>
-    <string name="ui_secondary_title">Choose between iOS style or standard EUI</string>
+    <string name="ui_secondary_title">Choose between EUI (default) iOS or MIUI style</string>
     <string name="ui_info_switcheui">"INFO:
 
 Double-tap on the name of the style you want to apply.
@@ -385,14 +387,14 @@ CAUTION:
 
 Make sure you have set up the Android stock interface before applying this option.
 Otherwise, the change will have no effect!"</string>
-    <string name="ui_button_title1">"  Statusbar style like iOS"</string>				
-    <string name="ui_button_title2">"  Statusbar sytle EUI (default)"</string>
-    <string name="ui_button_title3">"  Statusbar sytle MIUI"</string>	
+    <string name="ui_button_title1">"  Statusbar EUI style (default)"</string>				
+    <string name="ui_button_title2">"  Statusbar iOS style"</string>
+    <string name="ui_button_title3">"  Statusbar MIUI style"</string>
     <string name="softkeys_title_description">Softkeys</string>
     <string name="softkeys_title_summary">Enable or disable softkeys light</string>	
     <string name="softkeys_app_name">Softkeys manager</string>	
 	<string name="statusbar_mtitle">Statusbar style</string>
-    <string name="statusbar_mtitle_summary">Choose between iOS style or standard EUI</string>	
+    <string name="statusbar_mtitle_summary">Choose between EUI (default) iOS or MIUI style</string>	
     <string name="softkeys_mtitle_description">Softkeys</string>	
     <string name="softkeys_mtitle_summary">Enable or disable softkeys light</string>
     <string name="app_perfservice_title">Perfservice</string>	
