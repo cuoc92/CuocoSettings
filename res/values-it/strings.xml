@@ -341,13 +341,11 @@ SCOLLEGARE IL TELEFONO DAL CARICATORE!"</string>
     <string name="show_network_speed_title">Gestisci velocità rete</string>
     <string name="font_app_name">Scegli carattere</string>
     <string name="app_menu_title">Stile barra di stato</string>
-    <string name="ui_secondary_title">Scegli tra lo stile iOS o quello standard EUI</string>
+    <string name="ui_secondary_title">Scegli tra lo stile EUI (predefinito) iOS o MIUI</string>
     <string name="ui_info_switcheui">"INFO:
 	
 Fai un doppio tap con il dito sul nome dello stile che vuoi applicare.
 Il processo dell'interfaccia utente verrà riavviato automaticamente per applicare i cambiamenti!
-
-
 
 ATTENZIONE:
 
@@ -357,7 +355,6 @@ In caso contrario, la modifica non avrà nessun effetto!"</string>
 
 Fai un doppio tap con il dito sul nome dello stile che vuoi applicare.
 Il processo dell'interfaccia utente verrà riavviato automaticamente per applicare i cambiamenti!
-
 
 ATTENZIONE:
 
@@ -370,7 +367,7 @@ In caso contrario, la modifica non avrà nessun effetto!"</string>
     <string name="softkeys_title_summary">"Attiva o disattiva l'illuminazione dei tasti virtuali"</string>	
     <string name="softkeys_app_name">Tasti virtuali</string>	
 	<string name="statusbar_mtitle">Stile barra di stato</string>
-    <string name="statusbar_mtitle_summary">Scegli tra lo stile iOS o quello standard EUI</string>	
+    <string name="statusbar_mtitle_summary">Scegli tra lo stile EUI (predefinito) iOS o MIUI</string>
     <string name="softkeys_mtitle_description">Tasti virtuali</string>	
     <string name="softkeys_mtitle_summary">Attiva o disattiva la illuminazione dei tasti virtuali</string>
     <string name="perfservice_title_mdescription">Perfservice</string>
