@@ -123,15 +123,15 @@ Premi per copiare le informazioni WIFI"</string>
     <string name="systemui_notification_summary">"Attiva i collegamenti per l'accesso rapido e il regolatore della luminosità nel pannello delle notifiche"</string>
     <string name="systemui_title_description">Interfaccia</string>
     <string name="systemui_title_summary">"Scegli tra l'interfaccia classica o quella customizzata"</string>
-    <string name="default_ui_title">Interfaccia utente predefinita</string>
-    <string name="customized_ui_title">Interfaccia utente customizzata</string>
+    <string name="default_ui_title">Interfaccia utente predefinita (EUI)</string>
+    <string name="customized_ui_title">Interfaccia utente customizzata (CUOCO)</string>
     <string name="launcher_title">Gesti launcher</string>
     <string name="launcher_summary">"Modifica l'opzione swipe up per avviare le applicazioni"</string>
     <string name="launcher_title_main">Ricerca Google o applicazione Telefono</string>
     <string name="launcher_preference_title">Launcher</string>
     <string name="launcher_title_summary">Premere qui per selezionare e applicare la vostra scelta. Il telefono verrà riavviato automaticamente</string>
-    <string name="google_swipe_title">Ricerca Google</string>
-    <string name="dialer_swipe_title">"Avvia l'applicazione Telefono"</string>
+    <string name="google_swipe_title">"Avvia l'applicazione \"Ricerca Google\""</string>
+    <string name="dialer_swipe_title">"Avvia l'applicazione \"Telefono\""</string>
     <string name="cuoco_switch">Funzionalità interfaccia utente</string>
     <string name="systemui_switch_title">Barra delle notifiche (EUI)</string>
     <string name="systemui_switch_summary">"Scegli tra l'interfaccia classica o quella customizzata"</string>
@@ -221,17 +221,17 @@ Premi per copiare le informazioni WIFI"</string>
     <string name="frame_info_stock_summary">"
 1) Framework predefinito senza l'ottimizzazione della luminosità
 "</string>
-    <string name="dialer_title_description">App Telefono customizzata</string>
+    <string name="dialer_title_description">Applicazione Telefono customizzata</string>
     <string name="dialer_preference_title">Telefono</string>
     <string name="diler_title">Telefono customizzato</string>
     <string name="dialer_title_summary">"Installa l'app Telefono customizzata"</string>
-    <string name="dialer_res_custom_info">Dialer ottimizzato:</string>
+    <string name="dialer_res_custom_info">Dialer ottimizzato (CUOCO):</string>
     <string name="dialer_info_custom_summary">"
 1) Immagine ID chiamante ingrandita
 2) Registrazione chiamate attiva per tutte le regioni
 3) Pagine gialle rimosse
 "</string>
-    <string name="dialer_res_stock_info">Dialer stock:</string>
+    <string name="dialer_res_stock_info">Dialer stock (EUI):</string>
     <string name="dialer_info_stock_summary">"
 1) Applicazione Telefono stock senza alcuna modifica
 "</string>
@@ -285,8 +285,10 @@ SCOLLEGARE IL TELEFONO DAL CARICATORE!"</string>
     <string name="gps_select_server">Seleziona un server:</string>
     <string name="camera_api_settings">Camera API</string>
     <string name="camera_api_settings_title">Supporto HAL3 fotocamera</string>
-    <string name="camera_api_settings_title_summary">Scatta le foto in formato RAW Attenzione: questa funzione non è completamente compatibile con la fotocamera di serie e altre terze applicazioni</string>
-    <string name="api_title_description">Abilita la funzione HAL3 della fotocamera</string>
+    <string name="camera_api_settings_title_summary">"Scatta le foto in formato RAW 
+Attenzione: questa funzione potrebbe non essere compatibile con la fotocamera stock"</string>
+    <string name="api_title_description">Abilita la funzione HAL3 della fotocamera
+(riavvio del telefono necessario)"</string>
     <string name="api_title_summary">Scatta le foto in formato RAW</string>
     <string name="permissions_title_description">Impostazioni LeEco</string>
     <string name="permissions_title_summary">Abilita o disabilita i servizi LeEco</string>
@@ -303,8 +305,8 @@ SCOLLEGARE IL TELEFONO DAL CARICATORE!"</string>
     <string name="systemuiaosp_settings">Stile android stock</string>
     <string name="systemui_aosp_title_description">Interfaccia utente</string>
     <string name="aosp_systemui_title_summary">"Scegli tra l'interfaccia Android personalizzata e i collegamenti sulla tendina delle notifiche"</string>
-    <string name="aosp_default_ui_title">Intercaccia classica android senza collegamenti</string>
-    <string name="aosp_customized_ui_title">Intercaccia classica android con collegamenti</string>
+    <string name="aosp_default_ui_title">Interfaccia classica (ANDROID)</string>
+    <string name="aosp_customized_ui_title">Intercaccia classica con collegamenti (CUOCO)</string>
     <string name="systemui_aosp_switch_title">Gestione applicazioni (Stile android)</string>
     <string name="systemui_aosp_switch_summary">"Scegli tra l'interfaccia Android personalizzata e i collegamenti sulla tendina delle notifiche"</string>
     <string name="app_tz_name">Fuso orario</string>
@@ -374,4 +376,15 @@ In caso contrario, la modifica non avrà nessun effetto!"</string>
     <string name="perfservice_mtitle_summary">Abilita o disabilita le prestazioni della CPU</string>
     <string name="perfservice_mtitle_description">Servizio Perfservice</string>
     <string name="perfservice_title_msummary">"Questa opzione abiliterà il servizio di prestazioni della CPU. Questa funzione è consigliata per i giocatori e comporterà un ulteriore consumo della batteria!"</string>	
+    <string name="ui_info_taskmanager_aosp">"ATTENZIONE:
+	
+questo \"Task Manager\" è in fase BETA. La \"SHELL ADB\" non funziona correttamente e causerà alcuni problemi solo se usi i comandi dal PC.
+
+Se hai bisogno di questa funzione avanzata, ti consiglio di utilizzare il \"Task manager\" standard \"EUI\".
+
+"</string>
+    <string name="camera_info_hal3">"ATTENZIONE:
+
+abilitando questa funzione della fotocamera, le foto scattate con alcune applicazioni come WhatsApp, Facebook, Instagram (e altre applicazioni che richiedono l'uso della fotocamera) avranno delle macchie scure.
+"</string>
 </resources>

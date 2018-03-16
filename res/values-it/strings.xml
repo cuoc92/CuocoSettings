@@ -285,8 +285,10 @@ SCOLLEGARE IL TELEFONO DAL CARICATORE!"</string>
     <string name="gps_select_server">Seleziona un server:</string>
     <string name="camera_api_settings">Camera API</string>
     <string name="camera_api_settings_title">Supporto HAL3 fotocamera</string>
-    <string name="camera_api_settings_title_summary">Scatta le foto in formato RAW Attenzione: questa funzione non è completamente compatibile con la fotocamera di serie e altre terze applicazioni</string>
-    <string name="api_title_description">Abilita la funzione HAL3 della fotocamera</string>
+    <string name="camera_api_settings_title_summary">"Scatta le foto in formato RAW 
+Attenzione: questa funzione potrebbe non essere compatibile con la fotocamera stock"</string>
+    <string name="api_title_description">Abilita la funzione HAL3 della fotocamera
+(riavvio del telefono necessario)"</string>
     <string name="api_title_summary">Scatta le foto in formato RAW</string>
     <string name="permissions_title_description">Impostazioni LeEco</string>
     <string name="permissions_title_summary">Abilita o disabilita i servizi LeEco</string>
@@ -373,5 +375,16 @@ In caso contrario, la modifica non avrà nessun effetto!"</string>
     <string name="perfservice_title_mdescription">Perfservice</string>
     <string name="perfservice_mtitle_summary">Abilita o disabilita le prestazioni della CPU</string>
     <string name="perfservice_mtitle_description">Servizio Perfservice</string>
-    <string name="perfservice_title_msummary">"Questa opzione abiliterà il servizio di prestazioni della CPU. Questa funzione è consigliata per i giocatori e comporterà un ulteriore consumo della batteria!"</string>	
+    <string name="perfservice_title_msummary">"Questa opzione abiliterà il servizio di prestazioni della CPU. Questa funzione è consigliata per i giocatori e comporterà un ulteriore consumo della batteria!"</string>
+    <string name="ui_info_taskmanager_aosp">"ATTENZIONE:
+	
+questo \"Task Manager\" è in fase BETA. La \"SHELL ADB\" non funziona correttamente e causerà alcuni problemi solo se usi i comandi dal PC.
+
+Se hai bisogno di questa funzione avanzata, ti consiglio di utilizzare il \"Task manager\" standard \"EUI\".
+
+"</string>
+    <string name="camera_info_hal3">"ATTENZIONE:
+
+abilitando questa funzione della fotocamera, le foto scattate con alcune applicazioni come WhatsApp, Facebook, Instagram (e altre applicazioni che richiedono l'uso della fotocamera) avranno delle macchie scure.
+"</string>
 </resources>
